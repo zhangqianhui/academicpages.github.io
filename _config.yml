@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "qxy.png"
+  name             : "Xueyin Qin"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "JiNan China"
-  employer         :
+  employer         :  Shandong University
   email            : "qxy@sdu.edu.cn"
   uri              :
   bitbucket        :
