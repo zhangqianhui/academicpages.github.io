@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "QinXueYing"
+title                    : "Qin XueYing"
 title_separator          : "-"
 name                     : &name "Xueying Qin"
 description              : &description ""
-url                      : https://zhangqianhui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhangqianhui.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhangqianhui/zhangqianhui.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,8 +78,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xueyin Qing"
-  avatar           : "profile.png"
+  name             : "Xueying Qin"
+  avatar           : "bio-photo.jpg"
   bio              : "Mainly interested in Computer Vision; 2&3 D Object Detection or Tracking"
   location         : "JiNan China"
   employer         :  Shandong University
