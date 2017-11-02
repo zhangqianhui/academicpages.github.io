@@ -7,12 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Xueyin Qin is a Professor of School of Computer Science and Technology, [Shandong University](www.sdu.edu.cn).
+Xueying Qin is a Professor of School of Computer Science and Technology, [Shandong University](www.sdu.edu.cn).
 
 Reseach
 ------
 • Augmented Reality: vision-based camera tracking, integrating virtual and real world
+
 • Computer Vision: illumination analysis, object tracking, video segmentation, camera tracking, 3D recon- struction, image understanding
+
 • Computer Graphics: computer animation, multi-media computing
 
 
