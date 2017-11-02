@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "QinXueYing"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Xueying Qin"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "zhangqianhui.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhangqianhui/zhangjichao.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,12 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xueying Qin"
-  avatar           : "bio-photo.jpg"
-  bio              : "Mainly interested in Computer Vision; 2&3 D Object Detection or Tracking"
-  location         : "JiNan China"
-  employer         : "Shandong University"
-  email            : "qxy@sdu.edu.cn"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
