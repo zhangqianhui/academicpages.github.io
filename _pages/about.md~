@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-JiChao Zhang is a the second-year master student at [Department of Computer Science and Technology](http://www.cs.sdu.edu.cn/default.do) in [Shandong University](http://www.sdu.edu.cn)  and under the advisement of Prof. [Xueying Qin](http://www.cs.sdu.edu.cn/zh/~qxy), 
+JiChao Zhang is a second-year master student at [Department of Computer Science and Technology](http://www.cs.sdu.edu.cn/default.do) in [Shandong University](http://www.sdu.edu.cn)  and under the advisement of Prof. [Xueying Qin](http://www.cs.sdu.edu.cn/zh/~qxy), 
 
 Reseach
 ------
