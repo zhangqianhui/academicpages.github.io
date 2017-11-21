@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xueying Qin Qroup Web"
+title                    : "JiChao Zhang Web"
 title_separator          : "-"
-name                     : &name "Xueyin Qin"
+name                     : &name "JiChap Zhang"
 description              : &description "personal description"
 url                      : # zhangqianhui.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xueying Qin"
-  avatar           : "profile.png"
-  bio              : "Mainly interested in Computer Vision, fouce on 2&3 D Object Detection and Tracking"
+  name             : "JiChao Zhang"
+  avatar           : "profile.jpg"
+  bio              : "Mainly interested in Computer Vision, fouce on Deep learning and Image Processing"
   location         : "Jinan China"
   employer         : "Shandong University"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "qxy@sdu.edu.cn"
+  email            : "zhang163220@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
