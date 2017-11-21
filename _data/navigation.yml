@@ -5,13 +5,7 @@ main:
 
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "People"
-    url: /portfolio/
-        
+       
   - title: "Blog Posts"
     url: /year-archive/
     
