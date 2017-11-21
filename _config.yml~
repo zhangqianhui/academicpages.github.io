@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xueying Qin Qroup Web/ Site Title"
+title                    : "Xueying Qin Qroup Web"
 title_separator          : "-"
 name                     : &name "Xueyin Qin"
 description              : &description "personal description"
