@@ -7,17 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Xueying Qin is a Professor of School of Computer Science and Technology, [Shandong University](www.sdu.edu.cn).
+JiChao Zhang is a the second-year master student at [Department of Computer Science and Technology](http://www.cs.sdu.edu.cn/default.do) in [Shandong University](http://www.sdu.edu.cn)  and under the advisement of Prof. [Xueying Qin](http://www.cs.sdu.edu.cn/zh/~qxy), 
 
 Reseach
 ------
-• Augmented Reality: vision-based camera tracking, integrating virtual and real world
+• Deep learning: Convolutional neural networks and Generative Adversarial Networks. 
 
-• Computer Vision: illumination analysis, object tracking, video segmentation, camera tracking, 3D recon- struction, image understanding
+• Computer Vision: Image semantic Transormation, Object Detection and Tracking, Image Processing
 
-• Computer Graphics: computer animation, multi-media computing
+• Machine Learning: Manifold lerning and Semi-supervised learning 
 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+
