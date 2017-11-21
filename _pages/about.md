@@ -15,7 +15,7 @@ Reseach
 
 • Computer Vision: Image semantic Transormation, Object Detection and Tracking, Image Processing
 
-• Machine Learning: Manifold lerning and Semi-supervised learning 
+• Machine Learning: Manifold learning and Semi-supervised learning 
 
 
 
