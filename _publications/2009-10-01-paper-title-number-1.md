@@ -6,7 +6,7 @@ excerpt: 'The paper is about the facial images attribution manipulating using Ge
 date: 2017-09-16
 venue: 'ACML 2017'
 paperurl: 'http://www.acml-conf.org/2017/conference/accepted-papers/'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
 ---
 Facial Image semantic transformation aims to convert one image into another image with
 different semantic features (e.g., face pose, hairstyle). The previous methods, which learn
