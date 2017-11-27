@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'The paper is about the facial images attribution manipulating using Generative Adversarial Networks in the unsupervised case.'
 date: 2017-09-16
-venue: 'ACML 2017'
-paperurl: 'http://www.acml-conf.org/2017/conference/accepted-papers/'
+venue: 'ACML'
+paperurl: 'http://proceedings.mlr.press/v77/zhang17c.html'
 
 ---
 Facial Image semantic transformation aims to convert one image into another image with
@@ -21,4 +21,4 @@ the latent vector. After the proposed framework is trained on a benchmark, the o
 face images can be reconstructed and then translated into various images with different
 semantic features.
 
-[Download paper here](https://github.com/zhangqianhui/zhangjichao.github.io/tree/master/files/paper1.pdf).
+[Download paper here](http://proceedings.mlr.press/v77/zhang17c.html).
