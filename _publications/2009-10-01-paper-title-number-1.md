@@ -21,4 +21,4 @@ the latent vector. After the proposed framework is trained on a benchmark, the o
 face images can be reconstructed and then translated into various images with different
 semantic features.
 
-<font color='blue'>[Arxiv](http://proceedings.mlr.press/v77/zhang17c.html)</font>.
+[Arxiv](http://proceedings.mlr.press/v77/zhang17c.html).
