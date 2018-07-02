@@ -2,9 +2,9 @@
 title: <font color='blue'> "Unsupervised Facial Image semantic transformation using Generative Adversarial Networks"</font>
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ''
+excerpt: 'Jichao zhang; Gongze Cao; Fan Zhong; Xueying Qin'
 date: 2017-09-16
-venue: <font color='red'>'ACML'</font>
+venue: <font color='red'>'ACML 2018'</font>
 paperurl: 'http://proceedings.mlr.press/v77/zhang17c.html'
 
 ---
