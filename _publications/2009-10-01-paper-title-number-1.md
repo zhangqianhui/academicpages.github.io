@@ -1,5 +1,5 @@
 ---
-title: <font color='blue'> "Unsupervised Facial Image semantic transformation using Generative Adversarial"</font>
+title: <font color='blue'> "ST-GAN:Unsupervised Facial Image semantic transformation using Generative Adversarial"</font>
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
