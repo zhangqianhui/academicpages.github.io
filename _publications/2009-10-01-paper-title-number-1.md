@@ -1,9 +1,9 @@
 ---
-title: <font color='blue'> "ST-GAN:Unsupervised Facial Image semantic transformation using Generative Adversarial"</font>
+title: <font color='blue'>"ST-GAN: Unsupervised Facial Image Semantic Transformation using Generative Adversarial Networks"</font>
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-venue: Jichao Zhang</br> <font color='red'>ACML</font>
+venue: <font color='red'>ACML</font>
 date: 2018-9-16
 paperurl: 'http://proceedings.mlr.press/v77/zhang17c.html'
 
