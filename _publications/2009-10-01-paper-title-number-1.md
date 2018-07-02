@@ -2,7 +2,7 @@
 title: <font color='blue'> "Unsupervised Facial Image semantic transformation using Generative Adversarial Networks"</font>
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'The paper is about the facial images attribution manipulating using Generative Adversarial Networks in the unsupervised case.'
+excerpt: ''
 date: 2017-09-16
 venue: 'ACML'
 paperurl: 'http://proceedings.mlr.press/v77/zhang17c.html'
