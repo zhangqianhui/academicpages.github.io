@@ -3,7 +3,6 @@ title: <font color='blue'> "Unsupervised Facial Image semantic transformation us
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Jichao zhang; Gongze Cao; Fan Zhong; Xueying Qin'
-excerpt: 'Jichao zhang; Gongze Cao; Fan Zhong; Xueying Qin' <font color='red'>ACML 2018</font>
 date: 2017-09-16
 venue: <font color='red'>ACML 2018</font>
 paperurl: 'http://proceedings.mlr.press/v77/zhang17c.html'
