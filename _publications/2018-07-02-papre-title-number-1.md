@@ -9,3 +9,4 @@ paperurl: 'https://arxiv.org/abs/1805.07509'
 
 ---
 [Arxiv](https://arxiv.org/abs/1805.07509).
+[Github](https://github.com/zhangqianhui/Sparsely-Grouped-GAN).
