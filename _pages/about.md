@@ -11,11 +11,10 @@ JiChao Zhang is a second-year master student at [Department of Computer Science 
 
 Reseach
 ------
-• Deep learning: Convolutional neural networks and Generative Adversarial Networks. 
+• Deep learning: Deep Generative Model and Generative Adversarial Networks. 
 
-• Computer Vision: Image semantic Transormation, Object Detection and Tracking, Image Processing
-
-• Machine Learning: Manifold learning and Semi-supervised learning 
+• Computer Vision: Image semantic Transormation, Image Processing, Semantic Segmentation
+ 
 
 
 
