@@ -1,5 +1,5 @@
 ---
-title: <font color='blue'> "Unsupervised Facial Image semantic transformation using Generative Adversarial Networks"</font><br>Jichao Zhang</br>
+title: <font color='blue'> "Unsupervised Facial Image semantic transformation using Generative Adversarial Networks"<br>2</br></font>
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
