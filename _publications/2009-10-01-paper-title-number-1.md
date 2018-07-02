@@ -1,5 +1,5 @@
 ---
-title: "Unsupervised Facial Image semantic transformation using Generative Adversarial Networks"
+title: <font color='red'> "Unsupervised Facial Image semantic transformation using Generative Adversarial Networks"</font>
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'The paper is about the facial images attribution manipulating using Generative Adversarial Networks in the unsupervised case.'
