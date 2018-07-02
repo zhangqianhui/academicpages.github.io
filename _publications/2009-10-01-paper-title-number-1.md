@@ -1,5 +1,5 @@
 ---
-title: <font color='red'> "Unsupervised Facial Image semantic transformation using Generative Adversarial Networks"</font>
+title: <font color='blue'> "Unsupervised Facial Image semantic transformation using Generative Adversarial Networks"</font>
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'The paper is about the facial images attribution manipulating using Generative Adversarial Networks in the unsupervised case.'
@@ -21,4 +21,4 @@ the latent vector. After the proposed framework is trained on a benchmark, the o
 face images can be reconstructed and then translated into various images with different
 semantic features.
 
-[[Download paper here]](http://proceedings.mlr.press/v77/zhang17c.html).
+<font color='blue'>[Arxiv](http://proceedings.mlr.press/v77/zhang17c.html)</font>.
